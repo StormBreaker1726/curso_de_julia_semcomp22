@@ -1,0 +1,7 @@
+\babel@toc {brazil}{}\relax 
+\beamer@sectionintoc {1}{Histórico}{3}{0}{1}
+\beamer@sectionintoc {2}{Tipos de dados}{8}{0}{2}
+\beamer@sectionintoc {3}{Estruturas de Dados Básicas}{23}{0}{3}
+\beamer@sectionintoc {4}{Condicionais e Estruturas de Repetição}{59}{0}{4}
+\beamer@sectionintoc {5}{Funções e Structs}{79}{0}{5}
+\beamer@sectionintoc {6}{Bibliotecas}{93}{0}{6}

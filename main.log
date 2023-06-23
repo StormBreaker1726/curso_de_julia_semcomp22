@@ -1,0 +1,2358 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/CVE-2023-32700 patched) (preloaded format=pdflatex 2023.6.23)  23 JUN 2023 19:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-12-17>
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2022/09/13 v3.68 A class for typesetting presentations
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count185
+)
+\beamer@tempbox=\box51
+\beamer@tempcount=\count186
+\c@beamerpauses=\count187
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count188
+\beamer@minimum=\count189
+\beamer@decode@box=\box52
+)
+\beamer@commentbox=\box53
+\beamer@modecount=\count190
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\headdp=\dimen140
+\footheight=\dimen141
+\sidebarheight=\dimen142
+\beamer@tempdim=\dimen143
+\beamer@finalheight=\dimen144
+\beamer@animht=\dimen145
+\beamer@animdp=\dimen146
+\beamer@animwd=\dimen147
+\beamer@leftmargin=\dimen148
+\beamer@rightmargin=\dimen149
+\beamer@leftsidebar=\dimen150
+\beamer@rightsidebar=\dimen151
+\beamer@boxsize=\dimen152
+\beamer@vboxoffset=\dimen153
+\beamer@descdefault=\dimen154
+\beamer@descriptionwidth=\dimen155
+\beamer@lastskip=\skip47
+\beamer@areabox=\box54
+\beamer@animcurrent=\box55
+\beamer@animshowbox=\box56
+\beamer@sectionbox=\box57
+\beamer@logobox=\box58
+\beamer@linebox=\box59
+\beamer@sectioncount=\count191
+\beamer@subsubsectionmax=\count192
+\beamer@subsectionmax=\count193
+\beamer@sectionmax=\count194
+\beamer@totalheads=\count195
+\beamer@headcounter=\count196
+\beamer@partstartpage=\count197
+\beamer@sectionstartpage=\count198
+\beamer@subsectionstartpage=\count199
+\beamer@animationtempa=\count266
+\beamer@animationtempb=\count267
+\beamer@xpos=\count268
+\beamer@ypos=\count269
+\beamer@ypos@offset=\count270
+\beamer@showpartnumber=\count271
+\beamer@currentsubsection=\count272
+\beamer@coveringdepth=\count273
+\beamer@sectionadjust=\count274
+\beamer@toclastsection=\count275
+\beamer@tocsectionnumber=\count276
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+))
+\beamer@paperwidth=\skip48
+\beamer@paperheight=\skip49
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen164
+\pgfutil@tempdimb=\dimen165
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box60
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks21
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen166
+\pgf@xa=\dimen167
+\pgf@xb=\dimen168
+\pgf@xc=\dimen169
+\pgf@y=\dimen170
+\pgf@ya=\dimen171
+\pgf@yb=\dimen172
+\pgf@yc=\dimen173
+\c@pgf@counta=\count280
+\c@pgf@countb=\count281
+\c@pgf@countc=\count282
+\c@pgf@countd=\count283
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count284
+\pgfmath@box=\box61
+\pgfmath@toks=\toks22
+\pgfmath@stack@operand=\toks23
+\pgfmath@stack@operation=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count285
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen175
+\Gin@req@width=\dimen176
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+\pgf@x=\dimen177
+\pgf@y=\dimen178
+\pgf@xa=\dimen179
+\pgf@ya=\dimen180
+\pgf@xb=\dimen181
+\pgf@yb=\dimen182
+\pgf@xc=\dimen183
+\pgf@yc=\dimen184
+\pgf@xd=\dimen185
+\pgf@yd=\dimen186
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count286
+\c@pgf@countb=\count287
+\c@pgf@countc=\count288
+\c@pgf@countd=\count289
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count290
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count291
+\pgfsyssoftpath@bigbuffer@items=\count292
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box62
+\pgf@hbox=\box63
+\pgf@layerbox@main=\box64
+\pgf@picture@serial@count=\count293
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen261
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen265
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count294
+\pgf@shadingcount=\count295
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box65
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count296
+\XC@countmixins=\count297
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count298
+)
+\@linkdim=\dimen267
+\Hy@linkcounter=\count299
+\Hy@pagecounter=\count300
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count301
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4045.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4045.
+Package hyperref Info: Option `implicit' set `false' on input line 4045.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count302
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen268
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count303
+\Field@Width=\dimen269
+\Fld@charsize=\dimen270
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+\Hy@abspage=\count304
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks28
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2020/01/31
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
+)))))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count307
+\beamer@lastskipcover=\skip50
+\beamer@trivlistdepth=\count308
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count309
+\c@part=\count310
+\c@section=\count311
+\c@subsection=\count312
+\c@subsubsection=\count313
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box66
+\beamer@frametitlebox=\box67
+\beamer@zoombox=\box68
+\beamer@zoomcount=\count314
+\beamer@zoomframecount=\count315
+\beamer@frametextheight=\dimen271
+\c@subsectionslide=\count316
+\beamer@frametopskip=\skip51
+\beamer@framebottomskip=\skip52
+\beamer@frametopskipautobreak=\skip53
+\beamer@framebottomskipautobreak=\skip54
+\beamer@envbody=\toks29
+\framewidth=\dimen272
+\c@framenumber=\count317
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box69
+\beamer@autobreakcount=\count318
+\beamer@autobreaklastheight=\dimen273
+\beamer@frametitletoks=\toks30
+\beamer@framesubtitletoks=\toks31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+\beamer@footins=\box70
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box71
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks32
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box72
+\bmb@colorbox=\box73
+\bmb@boxwidth=\dimen274
+\bmb@boxheight=\dimen275
+\bmb@prevheight=\dimen276
+\bmb@temp=\dimen277
+\bmb@dima=\dimen278
+\bmb@dimb=\dimen279
+\bmb@prevheight=\dimen280
+)
+\beamer@blockheadheight=\dimen281
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks33
+)
+\beamer@bibiconwidth=\skip55
+\c@figure=\count319
+\c@table=\count320
+\abovecaptionskip=\skip56
+\belowcaptionskip=\skip57
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen282
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen283
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen284
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count321
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count322
+\leftroot@=\count323
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count324
+\DOTSCASE@=\count325
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box74
+\strutbox@=\box75
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen285
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count326
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count327
+\dotsspace@=\muskip17
+\c@parentequation=\count328
+\dspbrk@lvl=\count329
+\tag@help=\toks35
+\row@=\count330
+\column@=\count331
+\maxfields@=\count332
+\andhelp@=\toks36
+\eqnshift@=\dimen286
+\alignsep@=\dimen287
+\tagshift@=\dimen288
+\tagwidth@=\dimen289
+\totwidth@=\dimen290
+\lineht@=\dimen291
+\@envbody=\toks37
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks39
+\thm@bodyfont=\toks40
+\thm@headfont=\toks41
+\thm@notefont=\toks42
+\thm@headpunct=\toks43
+\thm@preskip=\skip61
+\thm@postskip=\skip62
+\thm@headsep=\skip63
+\dth@everypar=\toks44
+)
+\c@theorem=\count333
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+\beamer@dima=\dimen292
+\beamer@dimb=\dimen293
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks45
+\inpenc@posthook=\toks46
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/12/26 3.84 The Babel package
+\babel@savecnt=\count334
+\U@D=\dimen294
+\l@unhyphenated=\language86
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+LaTeX Info: Redefining \textlatin on input line 4072.
+\bbl@dirlevel=\count335
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/brazil.ldf
+Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
+Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
+(babel)             (\language20). Reported on input line 111.
+Package babel Info: Making " an active character on input line 143.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-12-17 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count336
+\l__pdf_internal_box=\box76
+))
+Package: l3keys2e 2022-12-17 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count337
+\l__lipsum_a_int=\count338
+\l__lipsum_b_int=\count339
+
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count340
+\float@exts=\toks47
+\float@box=\box77
+\@float@everytoks=\toks48
+\@floatcapt=\box78
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip64
+\multirow@cntb=\count341
+\multirow@dima=\skip65
+\bigstrutjot=\dimen295
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip66
+\bibsep=\skip67
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count342
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen296
+\captionmargin=\dimen297
+\caption@leftmargin=\dimen298
+\caption@rightmargin=\dimen299
+\caption@width=\dimen300
+\caption@indent=\dimen301
+\caption@parindent=\dimen302
+\caption@hangindent=\dimen303
+Package caption Info: beamer document class detected.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption-beamer.sto
+File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to th
+e beamer document classes (AR)
+))
+\c@caption@flags=\count343
+\c@continuedfloat=\count344
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+)
+\c@KVtest=\count345
+\sf@farskip=\skip68
+\sf@captopadj=\dimen304
+\sf@capskip=\skip69
+\sf@nearskip=\skip70
+\c@subfigure=\count346
+\c@subfigure@save=\count347
+\c@depth=\count348
+\c@subtable=\count349
+\c@subtable@save=\count350
+\sf@top=\skip71
+\sf@bottom=\skip72
+)
+(/usr/share/texlive/texmf-dist/tex/latex/comfortaa/comfortaa.sty
+Package: comfortaa 2019/06/20 Style file for Comfortaa.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks49
+\XKV@tempa@toks=\toks50
+)
+\XKV@depth=\count351
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+comfortaa on input l
+ine 112.
+
+(/usr/share/texlive/texmf-dist/tex/latex/comfortaa/T1comfortaa.fd
+File: T1comfortaa.fd 2019/06/24 Font definitions for T1/comfortaa.
+)
+LaTeX Font Info:    Font shape `T1/comfortaa/m/n' will be
+(Font)              scaled to size 10.95pt on input line 112.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeCambridgeUS.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemespruce.sty)
+(./main.aux
+
+LaTeX Warning: Label `fig:ex-tipos' multiply defined.
+
+
+LaTeX Warning: Label `fig:ex-tipos' multiply defined.
+
+
+LaTeX Warning: Label `fig:ex-tipos' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(10.95pt, 342.29536pt, 10.95pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=342.29536pt
+* \textheight=244.6939pt
+* \oddsidemargin=-61.31999pt
+* \evensidemargin=-61.31999pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count352
+\scratchdimen=\dimen305
+\scratchbox=\box79
+\nofMPsegments=\count353
+\nofMParguments=\count354
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count355
+\MPscratchDim=\dimen306
+\MPnumerator=\count356
+\makeMPintoPDFobject=\count357
+\everyMPtoPDFconversion=\toks52
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 46.
+
+(./main.out) (./main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 46.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 46.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 46.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 46.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 46.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 46.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 46.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 46.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 46.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 46.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 46.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 46.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 46.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 46.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 46.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 46.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 46.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 46.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 46.
+LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
+(Font)              `pureletters' in the math version `normal' on input line 46
+.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 46
+.
+LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
+(Font)              `pureletters' in the math version `bold' on input line 46.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 46
+.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 46.
+
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
+-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dic
+tionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-environment-dict
+ionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-months-dictionar
+y-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-numbers-dictiona
+ry-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
+ry-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+ (./main.nav)
+LaTeX Font Info:    Font shape `T1/comfortaa/m/n' will be
+(Font)              scaled to size 6.0pt on input line 46.
+LaTeX Font Info:    Font shape `T1/comfortaa/m/n' will be
+(Font)              scaled to size 14.4pt on input line 71.
+LaTeX Font Info:    Font shape `T1/comfortaa/m/n' will be
+(Font)              scaled to size 8.0pt on input line 71.
+LaTeX Font Info:    Font shape `T1/comfortaa/m/it' in size <8> not available
+(Font)              Font shape `T1/comfortaa/m/sl' tried instead on input line 
+71.
+LaTeX Font Info:    Font shape `T1/comfortaa/m/sl' will be
+(Font)              scaled to size 8.0pt on input line 71.
+LaTeX Font Info:    Font shape `T1/comfortaa/m/n' will be
+(Font)              scaled to size 4.0pt on input line 71.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc) [2
+
+] (./main.toc) [3
+
+]
+LaTeX Font Info:    Font shape `T1/comfortaa/m/n' will be
+(Font)              scaled to size 10.0pt on input line 90.
+ [4
+
+] [5
+
+]
+LaTeX Font Info:    Font shape `T1/comfortaa/b/n' will be
+(Font)              scaled to size 10.95pt on input line 112.
+LaTeX Font Info:    Font shape `T1/comfortaa/m/n' will be
+(Font)              scaled to size 9.0pt on input line 112.
+ [6
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 123
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 123
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
+ut line 123.
+
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+[7
+
+] (./main.toc) [8
+
+] [9
+
+]
+<imagens/tipos-variaveis.png, id=362, 634.37pt x 151.56625pt>
+File: imagens/tipos-variaveis.png Graphic file (type png)
+<use imagens/tipos-variaveis.png>
+Package pdftex.def Info: imagens/tipos-variaveis.png  used on input line 150.
+(pdftex.def)             Requested size: 253.7435pt x 60.62541pt.
+ [10
+
+ <./imagens/tipos-variaveis.png>]
+<imagens/tipagem02.png, id=392, 317.185pt x 130.4875pt>
+File: imagens/tipagem02.png Graphic file (type png)
+<use imagens/tipagem02.png>
+Package pdftex.def Info: imagens/tipagem02.png  used on input line 161.
+(pdftex.def)             Requested size: 158.5921pt x 65.24358pt.
+ [11
+
+ <./imagens/tipagem02.png>]
+<imagens/declaracao-de-variaveis.png, id=421, 600.2425pt x 109.40875pt>
+File: imagens/declaracao-de-variaveis.png Graphic file (type png)
+<use imagens/declaracao-de-variaveis.png>
+Package pdftex.def Info: imagens/declaracao-de-variaveis.png  used on input lin
+e 173.
+(pdftex.def)             Requested size: 300.12051pt x 54.70422pt.
+ [12
+
+ <./imagens/declaracao-de-variaveis.png>]
+<imagens/ex-codigo-neutro.png, id=452, 744.7825pt x 190.7125pt>
+File: imagens/ex-codigo-neutro.png Graphic file (type png)
+<use imagens/ex-codigo-neutro.png>
+Package pdftex.def Info: imagens/ex-codigo-neutro.png  used on input line 187.
+(pdftex.def)             Requested size: 297.90771pt x 76.28363pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:ex-tipos}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.187 \end{frame}
+                  [13
+
+ <./imagens/ex-codigo-neutro.png>]
+<imagens/ex-funcao-printar.png, id=481, 974.64125pt x 198.7425pt>
+File: imagens/ex-funcao-printar.png Graphic file (type png)
+<use imagens/ex-funcao-printar.png>
+Package pdftex.def Info: imagens/ex-funcao-printar.png  used on input line 199.
+
+(pdftex.def)             Requested size: 341.12955pt x 69.56091pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:ex-tipos}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.199 \end{frame}
+                  [14
+
+ <./imagens/ex-funcao-printar.png>]
+<imagens/ex-readline.png, id=510, 460.72125pt x 204.765pt>
+File: imagens/ex-readline.png Graphic file (type png)
+<use imagens/ex-readline.png>
+Package pdftex.def Info: imagens/ex-readline.png  used on input line 212.
+(pdftex.def)             Requested size: 161.25485pt x 71.66881pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:ex-tipos}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.212 \end{frame}
+                  [15
+
+ <./imagens/ex-readline.png>]
+LaTeX Font Info:    Font shape `T1/comfortaa/b/n' will be
+(Font)              scaled to size 6.0pt on input line 232.
+ [16
+
+]
+<imagens/strings01.png, id=566, 392.46625pt x 171.64125pt>
+File: imagens/strings01.png Graphic file (type png)
+<use imagens/strings01.png>
+Package pdftex.def Info: imagens/strings01.png  used on input line 243.
+(pdftex.def)             Requested size: 196.23264pt x 85.8204pt.
+ [17
+
+ <./imagens/strings01.png>]
+<imagens/string02.png, id=596, 983.675pt x 289.08pt>
+File: imagens/string02.png Graphic file (type png)
+<use imagens/string02.png>
+Package pdftex.def Info: imagens/string02.png  used on input line 255.
+(pdftex.def)             Requested size: 344.29141pt x 101.1795pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.255 \end{frame}
+                 
+Overfull \hbox (1.99605pt too wide) in paragraph at lines 255--255
+ [] 
+ []
+
+[18
+
+ <./imagens/string02.png>]
+<imagens/char.png, id=636, 234.8775pt x 81.30376pt>
+File: imagens/char.png Graphic file (type png)
+<use imagens/char.png>
+Package pdftex.def Info: imagens/char.png  used on input line 266.
+(pdftex.def)             Requested size: 117.43846pt x 40.65176pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.266 \end{frame}
+                  [19
+
+ <./imagens/char.png>]
+<imagens/string03.png, id=665, 754.82pt x 345.29pt>
+File: imagens/string03.png Graphic file (type png)
+<use imagens/string03.png>
+Package pdftex.def Info: imagens/string03.png  used on input line 277.
+(pdftex.def)             Requested size: 301.92265pt x 138.11354pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.277 \end{frame}
+                  [20
+
+ <./imagens/string03.png>]
+<imagens/string04.png, id=693, 533.995pt x 303.1325pt>
+File: imagens/string04.png Graphic file (type png)
+<use imagens/string04.png>
+Package pdftex.def Info: imagens/string04.png  used on input line 290.
+(pdftex.def)             Requested size: 213.59421pt x 121.25084pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.290 \end{frame}
+                  [21
+
+ <./imagens/string04.png>]
+<imagens/string05.png, id=721, 363.3575pt x 107.40125pt>
+File: imagens/string05.png Graphic file (type png)
+<use imagens/string05.png>
+Package pdftex.def Info: imagens/string05.png  used on input line 301.
+(pdftex.def)             Requested size: 181.6783pt x 53.70049pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.301 \end{frame}
+                  [22
+
+ <./imagens/string05.png>] (./main.toc) [23
+
+] [24
+
+] [25
+
+]
+[26
+
+] [27
+
+]
+<imagens/tuplas01.png, id=905, 477.785pt x 96.36pt>
+File: imagens/tuplas01.png Graphic file (type png)
+<use imagens/tuplas01.png>
+Package pdftex.def Info: imagens/tuplas01.png  used on input line 351.
+(pdftex.def)             Requested size: 238.8919pt x 48.17987pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.351 \end{frame}
+                  [28
+
+ <./imagens/tuplas01.png>]
+<imagens/tuplas02.png, id=934, 312.16624pt x 91.34125pt>
+File: imagens/tuplas02.png Graphic file (type png)
+<use imagens/tuplas02.png>
+Package pdftex.def Info: imagens/tuplas02.png  used on input line 359.
+(pdftex.def)             Requested size: 156.08273pt x 45.6705pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.359 \end{frame}
+                  [29
+
+ <./imagens/tuplas02.png>]
+<imagens/tuplas03.png, id=962, 778.91pt x 221.82875pt>
+File: imagens/tuplas03.png Graphic file (type png)
+<use imagens/tuplas03.png>
+Package pdftex.def Info: imagens/tuplas03.png  used on input line 370.
+(pdftex.def)             Requested size: 311.55849pt x 88.72992pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.370 \end{frame}
+                  [30
+
+ <./imagens/tuplas03.png>]
+<imagens/tuplas05.png, id=990, 351.3125pt x 69.25874pt>
+File: imagens/tuplas05.png Graphic file (type png)
+<use imagens/tuplas05.png>
+Package pdftex.def Info: imagens/tuplas05.png  used on input line 381.
+(pdftex.def)             Requested size: 175.6558pt x 34.62927pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.381 \end{frame}
+                  [31
+
+ <./imagens/tuplas05.png>] [32
+
+]
+<imagens/tuplas-nomeadas01.png, id=1047, 732.7375pt x 89.33376pt>
+File: imagens/tuplas-nomeadas01.png Graphic file (type png)
+<use imagens/tuplas-nomeadas01.png>
+Package pdftex.def Info: imagens/tuplas-nomeadas01.png  used on input line 396.
+
+(pdftex.def)             Requested size: 293.08981pt x 35.73286pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.396 \end{frame}
+                  [33
+
+ <./imagens/tuplas-nomeadas01.png>]
+<imagens/tuplas-nomeadas02.png, id=1075, 239.89626pt x 76.285pt>
+File: imagens/tuplas-nomeadas02.png Graphic file (type png)
+<use imagens/tuplas-nomeadas02.png>
+Package pdftex.def Info: imagens/tuplas-nomeadas02.png  used on input line 407.
+
+(pdftex.def)             Requested size: 119.94783pt x 38.1424pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.407 \end{frame}
+                  [34
+
+ <./imagens/tuplas-nomeadas02.png>]
+<imagens/tuplas-nomeadas03.png, id=1103, 304.13625pt x 81.30376pt>
+File: imagens/tuplas-nomeadas03.png Graphic file (type png)
+<use imagens/tuplas-nomeadas03.png>
+Package pdftex.def Info: imagens/tuplas-nomeadas03.png  used on input line 418.
+
+(pdftex.def)             Requested size: 152.06775pt x 40.65176pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.418 \end{frame}
+                  [35
+
+ <./imagens/tuplas-nomeadas03.png>] [36
+
+]
+<imagens/dicionario01.png, id=1159, 1029.8475pt x 121.45375pt>
+File: imagens/dicionario01.png Graphic file (type png)
+<use imagens/dicionario01.png>
+Package pdftex.def Info: imagens/dicionario01.png  used on input line 434.
+(pdftex.def)             Requested size: 308.95663pt x 36.43639pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.434 \end{frame}
+                  [37
+
+ <./imagens/dicionario01.png>]
+<imagens/dicionario02.png, id=1188, 260.975pt x 92.345pt>
+File: imagens/dicionario02.png Graphic file (type png)
+<use imagens/dicionario02.png>
+Package pdftex.def Info: imagens/dicionario02.png  used on input line 445.
+(pdftex.def)             Requested size: 104.38815pt x 36.93733pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.445 \end{frame}
+                  [38
+
+ <./imagens/dicionario02.png>]
+<imagens/dicionario03.png, id=1216, 472.76625pt x 94.3525pt>
+File: imagens/dicionario03.png Graphic file (type png)
+<use imagens/dicionario03.png>
+Package pdftex.def Info: imagens/dicionario03.png  used on input line 461.
+(pdftex.def)             Requested size: 189.10315pt x 37.74031pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.461 \end{frame}
+                 
+<imagens/dicionario04.png, id=1217, 386.44376pt x 141.52875pt>
+File: imagens/dicionario04.png Graphic file (type png)
+<use imagens/dicionario04.png>
+Package pdftex.def Info: imagens/dicionario04.png  used on input line 461.
+(pdftex.def)             Requested size: 154.57475pt x 56.61049pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.461 \end{frame}
+                  [39
+
+ <./imagens/dicionario03.png> <./imagens/dicionario04.png>]
+<imagens/dicionario05.png, id=1245, 396.48125pt x 215.80624pt>
+File: imagens/dicionario05.png Graphic file (type png)
+<use imagens/dicionario05.png>
+Package pdftex.def Info: imagens/dicionario05.png  used on input line 472.
+(pdftex.def)             Requested size: 198.24013pt x 107.90285pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.472 \end{frame}
+                  [40
+
+ <./imagens/dicionario05.png>]
+<imagens/dicionario06.png, id=1274, 794.97pt x 255.95625pt>
+File: imagens/dicionario06.png Graphic file (type png)
+<use imagens/dicionario06.png>
+Package pdftex.def Info: imagens/dicionario06.png  used on input line 484.
+(pdftex.def)             Requested size: 317.98236pt x 102.38068pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.484 \end{frame}
+                  [41
+
+ <./imagens/dicionario06.png>] [42
+
+] [43
+
+]
+<imagens/array01.png, id=1357, 1019.81pt x 144.54pt>
+File: imagens/array01.png Graphic file (type png)
+<use imagens/array01.png>
+Package pdftex.def Info: imagens/array01.png  used on input line 505.
+(pdftex.def)             Requested size: 346.7308pt x 49.14293pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.505 \end{frame}
+                 
+Overfull \hbox (4.43544pt too wide) in paragraph at lines 505--505
+ [] 
+ []
+
+[44
+
+ <./imagens/array01.png>]
+<imagens/array02.png, id=1386, 511.9125pt x 195.73125pt>
+File: imagens/array02.png Graphic file (type png)
+<use imagens/array02.png>
+Package pdftex.def Info: imagens/array02.png  used on input line 513.
+(pdftex.def)             Requested size: 255.95563pt x 97.86537pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.513 \end{frame}
+                  [45
+
+ <./imagens/array02.png>]
+<imagens/array03.png, id=1414, 512.91624pt x 168.63pt>
+File: imagens/array03.png Graphic file (type png)
+<use imagens/array03.png>
+Package pdftex.def Info: imagens/array03.png  used on input line 521.
+(pdftex.def)             Requested size: 256.45749pt x 84.31479pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.521 \end{frame}
+                  [46
+
+ <./imagens/array03.png>]
+<imagens/array04.png, id=1442, 257.96375pt x 87.32625pt>
+File: imagens/array04.png Graphic file (type png)
+<use imagens/array04.png>
+Package pdftex.def Info: imagens/array04.png  used on input line 532.
+(pdftex.def)             Requested size: 128.98155pt x 43.66301pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.532 \end{frame}
+                  [47
+
+ <./imagens/array04.png>]
+<imagens/array05.png, id=1471, 375.4025pt x 204.765pt>
+File: imagens/array05.png Graphic file (type png)
+<use imagens/array05.png>
+Package pdftex.def Info: imagens/array05.png  used on input line 543.
+(pdftex.def)             Requested size: 187.70079pt x 102.38223pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.543 \end{frame}
+                  [48
+
+ <./imagens/array05.png>]
+<imagens/array07.png, id=1499, 470.75874pt x 215.80624pt>
+File: imagens/array07.png Graphic file (type png)
+<use imagens/array07.png>
+Package pdftex.def Info: imagens/array07.png  used on input line 551.
+(pdftex.def)             Requested size: 235.3788pt x 107.90285pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.551 \end{frame}
+                  [49
+
+ <./imagens/array07.png>]
+<imagens/array08.png, id=1528, 189.70876pt x 92.345pt>
+File: imagens/array08.png Graphic file (type png)
+<use imagens/array08.png>
+Package pdftex.def Info: imagens/array08.png  used on input line 559.
+(pdftex.def)             Requested size: 94.85414pt x 46.17238pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.559 \end{frame}
+                  [50
+
+ <./imagens/array08.png>] [51
+
+]
+<imagens/array09.png, id=1584, 341.275pt x 134.5025pt>
+File: imagens/array09.png Graphic file (type png)
+<use imagens/array09.png>
+Package pdftex.def Info: imagens/array09.png  used on input line 574.
+(pdftex.def)             Requested size: 170.63707pt x 67.25107pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.574 \end{frame}
+                  [52
+
+ <./imagens/array09.png>] [53
+
+]
+<imagens/array10.png, id=1639, 305.14pt x 159.59625pt>
+File: imagens/array10.png Graphic file (type png)
+<use imagens/array10.png>
+Package pdftex.def Info: imagens/array10.png  used on input line 589.
+(pdftex.def)             Requested size: 152.56961pt x 79.79791pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.589 \end{frame}
+                  [54
+
+ <./imagens/array10.png>]
+<imagens/array11.png, id=1667, 387.4475pt x 258.9675pt>
+File: imagens/array11.png Graphic file (type png)
+<use imagens/array11.png>
+Package pdftex.def Info: imagens/array11.png  used on input line 597.
+(pdftex.def)             Requested size: 193.72327pt x 129.48341pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.597 \end{frame}
+                  [55
+
+ <./imagens/array11.png>] [56
+
+]
+<imagens/array12.png, id=1724, 525.965pt x 468.75125pt>
+File: imagens/array12.png Graphic file (type png)
+<use imagens/array12.png>
+Package pdftex.def Info: imagens/array12.png  used on input line 611.
+(pdftex.def)             Requested size: 210.38226pt x 187.49716pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.611 \end{frame}
+                  [57
+
+ <./imagens/array12.png>]
+<imagens/array13.png, id=1751, 674.52pt x 581.17125pt>
+File: imagens/array13.png Graphic file (type png)
+<use imagens/array13.png>
+Package pdftex.def Info: imagens/array13.png  used on input line 619.
+(pdftex.def)             Requested size: 202.35756pt x 174.35272pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.619 \end{frame}
+                  [58
+
+ <./imagens/array13.png>] (./main.toc) [59
+
+] [60
+
+] [61
+
+]
+LaTeX Font Info:    Font shape `T1/comfortaa/m/it' in size <10.95> not availabl
+e
+(Font)              Font shape `T1/comfortaa/m/sl' tried instead on input line 
+645.
+LaTeX Font Info:    Font shape `T1/comfortaa/m/sl' will be
+(Font)              scaled to size 10.95pt on input line 645.
+<imagens/if-sintaxe.png, id=1868, 329.23pt x 190.7125pt>
+File: imagens/if-sintaxe.png Graphic file (type png)
+<use imagens/if-sintaxe.png>
+Package pdftex.def Info: imagens/if-sintaxe.png  used on input line 645.
+(pdftex.def)             Requested size: 131.68965pt x 76.28363pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.645 \end{frame}
+                  [62
+
+ <./imagens/if-sintaxe.png>] [63
+
+] [64
+
+]
+<imagens/teste-fizzbuzz.png, id=1952, 616.3025pt x 294.09875pt>
+File: imagens/teste-fizzbuzz.png Graphic file (type png)
+<use imagens/teste-fizzbuzz.png>
+Package pdftex.def Info: imagens/teste-fizzbuzz.png  used on input line 664.
+(pdftex.def)             Requested size: 308.1505pt x 147.04901pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.664 \end{frame}
+                  [65
+
+ <./imagens/teste-fizzbuzz.png>] [66
+
+]
+<imagens/var-if.png, id=2008, 154.5775pt x 69.25874pt>
+File: imagens/var-if.png Graphic file (type png)
+<use imagens/var-if.png>
+Package pdftex.def Info: imagens/var-if.png  used on input line 684.
+(pdftex.def)             Requested size: 77.28854pt x 34.62927pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.684 \end{frame}
+                  [67
+
+ <./imagens/var-if.png>]
+<imagens/if-002.png, id=2037, 180.675pt x 133.49875pt>
+File: imagens/if-002.png Graphic file (type png)
+<use imagens/if-002.png>
+Package pdftex.def Info: imagens/if-002.png  used on input line 695.
+(pdftex.def)             Requested size: 90.33727pt x 66.74919pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.695 \end{frame}
+                  [68
+
+ <./imagens/if-002.png>] [69
+
+] [70
+
+]
+<imagens/ternario.png, id=2121, 183.68625pt x 90.3375pt>
+File: imagens/ternario.png Graphic file (type png)
+<use imagens/ternario.png>
+Package pdftex.def Info: imagens/ternario.png  used on input line 718.
+(pdftex.def)             Requested size: 110.21259pt x 54.2029pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.718 \end{frame}
+                  [71
+
+ <./imagens/ternario.png>] [72
+
+]
+<imagens/while.png, id=2176, 375.4025pt x 134.5025pt>
+File: imagens/while.png Graphic file (type png)
+<use imagens/while.png>
+Package pdftex.def Info: imagens/while.png  used on input line 734.
+(pdftex.def)             Requested size: 225.24323pt x 80.7021pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.734 \end{frame}
+                  [73
+
+ <./imagens/while.png>]
+<imagens/for.png, id=2205, 231.86626pt x 123.46124pt>
+File: imagens/for.png Graphic file (type png)
+<use imagens/for.png>
+Package pdftex.def Info: imagens/for.png  used on input line 742.
+(pdftex.def)             Requested size: 139.12082pt x 74.0773pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.742 \end{frame}
+                  [74
+
+ <./imagens/for.png>]
+<imagens/ex-while.png, id=2234, 586.19pt x 274.02374pt>
+File: imagens/ex-while.png Graphic file (type png)
+<use imagens/ex-while.png>
+Package pdftex.def Info: imagens/ex-while.png  used on input line 750.
+(pdftex.def)             Requested size: 234.47185pt x 109.60754pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.750 \end{frame}
+                  [75
+
+ <./imagens/ex-while.png>]
+<imagens/matriz-zerada.png, id=2262, 406.51875pt x 103.38625pt>
+File: imagens/matriz-zerada.png Graphic file (type png)
+<use imagens/matriz-zerada.png>
+Package pdftex.def Info: imagens/matriz-zerada.png  used on input line 763.
+(pdftex.def)             Requested size: 162.60461pt x 41.35376pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.763 \end{frame}
+                 
+<imagens/ex-for.png, id=2263, 651.43375pt x 273.02pt>
+File: imagens/ex-for.png Graphic file (type png)
+<use imagens/ex-for.png>
+Package pdftex.def Info: imagens/ex-for.png  used on input line 763.
+(pdftex.def)             Requested size: 260.56888pt x 109.20605pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.763 \end{frame}
+                  [76
+
+ <./imagens/matriz-zerada.png> <./imagens/ex-for.png>]
+[77
+
+]
+<imagens/gabarito-ex01.png, id=2317, 581.17125pt x 298.11375pt>
+File: imagens/gabarito-ex01.png Graphic file (type png)
+<use imagens/gabarito-ex01.png>
+Package pdftex.def Info: imagens/gabarito-ex01.png  used on input line 775.
+(pdftex.def)             Requested size: 232.46437pt x 119.24338pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.775 \end{frame}
+                  [78
+
+ <./imagens/gabarito-ex01.png>] (./main.toc) [79
+
+] [80
+
+]
+<imagens/func01.png, id=2407, 420.57124pt x 122.4575pt>
+File: imagens/func01.png Graphic file (type png)
+<use imagens/func01.png>
+Package pdftex.def Info: imagens/func01.png  used on input line 792.
+(pdftex.def)             Requested size: 168.22551pt x 48.98212pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.792 \end{frame}
+                  [81
+
+ <./imagens/func01.png>]
+<imagens/func02.png, id=2436, 314.17375pt x 108.405pt>
+File: imagens/func02.png Graphic file (type png)
+<use imagens/func02.png>
+Package pdftex.def Info: imagens/func02.png  used on input line 800.
+(pdftex.def)             Requested size: 125.66727pt x 43.36122pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.800 \end{frame}
+                  [82
+
+ <./imagens/func02.png>]
+<imagens/func03.png, id=2464, 375.4025pt x 158.5925pt>
+File: imagens/func03.png Graphic file (type png)
+<use imagens/func03.png>
+Package pdftex.def Info: imagens/func03.png  used on input line 811.
+(pdftex.def)             Requested size: 150.15834pt x 63.43585pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.811 \end{frame}
+                  [83
+
+ <./imagens/func03.png>]
+LaTeX Font Info:    Font shape `T1/comfortaa/m/it' in size <9> not available
+(Font)              Font shape `T1/comfortaa/m/sl' tried instead on input line 
+817.
+LaTeX Font Info:    Font shape `T1/comfortaa/m/sl' will be
+(Font)              scaled to size 9.0pt on input line 817.
+ [84
+
+]
+<imagens/abs.png, id=2519, 325.215pt x 80.3pt>
+File: imagens/abs.png Graphic file (type png)
+<use imagens/abs.png>
+Package pdftex.def Info: imagens/abs.png  used on input line 829.
+(pdftex.def)             Requested size: 130.0837pt x 32.11942pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.829 \end{frame}
+                  [85
+
+ <./imagens/abs.png>]
+<imagens/mat-ex-func.png, id=2549, 354.32375pt x 274.02374pt>
+File: imagens/mat-ex-func.png Graphic file (type png)
+<use imagens/mat-ex-func.png>
+Package pdftex.def Info: imagens/mat-ex-func.png  used on input line 840.
+(pdftex.def)             Requested size: 141.72697pt x 109.60754pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.840 \end{frame}
+                  [86
+
+ <./imagens/mat-ex-func.png>]
+<imagens/vet-ex-func.png, id=2577, 388.45125pt x 209.78375pt>
+File: imagens/vet-ex-func.png Graphic file (type png)
+<use imagens/vet-ex-func.png>
+Package pdftex.def Info: imagens/vet-ex-func.png  used on input line 852.
+(pdftex.def)             Requested size: 155.37773pt x 83.912pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.852 \end{frame}
+                  [87
+
+ <./imagens/vet-ex-func.png>]
+<imagens/struct-ex.png, id=2606, 225.84375pt x 124.465pt>
+File: imagens/struct-ex.png Graphic file (type png)
+<use imagens/struct-ex.png>
+Package pdftex.def Info: imagens/struct-ex.png  used on input line 860.
+(pdftex.def)             Requested size: 90.33589pt x 49.78511pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.860 \end{frame}
+                  [88
+
+ <./imagens/struct-ex.png>]
+<imagens/struct-ex02.png, id=2634, 176.66pt x 106.3975pt>
+File: imagens/struct-ex02.png Graphic file (type png)
+<use imagens/struct-ex02.png>
+Package pdftex.def Info: imagens/struct-ex02.png  used on input line 868.
+(pdftex.def)             Requested size: 70.66273pt x 42.55824pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.868 \end{frame}
+                  [89
+
+ <./imagens/struct-ex02.png>]
+<imagens/struct-ex03.png, id=2663, 255.95625pt x 77.28876pt>
+File: imagens/struct-ex03.png Graphic file (type png)
+<use imagens/struct-ex03.png>
+Package pdftex.def Info: imagens/struct-ex03.png  used on input line 876.
+(pdftex.def)             Requested size: 102.38068pt x 30.91495pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.876 \end{frame}
+                  [90
+
+ <./imagens/struct-ex03.png>]
+<imagens/struct-ex04.png, id=2691, 255.95625pt x 184.69pt>
+File: imagens/struct-ex04.png Graphic file (type png)
+<use imagens/struct-ex04.png>
+Package pdftex.def Info: imagens/struct-ex04.png  used on input line 884.
+(pdftex.def)             Requested size: 102.38068pt x 73.87468pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.884 \end{frame}
+                  [91
+
+ <./imagens/struct-ex04.png>]
+<imagens/struct-ex06.png, id=2719, 168.63pt x 83.31125pt>
+File: imagens/struct-ex06.png Graphic file (type png)
+<use imagens/struct-ex06.png>
+Package pdftex.def Info: imagens/struct-ex06.png  used on input line 892.
+(pdftex.def)             Requested size: 67.45079pt x 33.3239pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.892 \end{frame}
+                  [92
+
+ <./imagens/struct-ex06.png>] (./main.toc) [93
+
+] [94
+
+]
+<imagens/pacotes-ex01.png, id=2809, 980.66376pt x 249.93375pt>
+File: imagens/pacotes-ex01.png Graphic file (type png)
+<use imagens/pacotes-ex01.png>
+Package pdftex.def Info: imagens/pacotes-ex01.png  used on input line 911.
+(pdftex.def)             Requested size: 333.42126pt x 84.97635pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.911 \end{frame}
+                  [95
+
+ <./imagens/pacotes-ex01.png>]
+<imagens/colors.png, id=2837, 1000.73875pt x 399.4925pt>
+File: imagens/colors.png Graphic file (type png)
+<use imagens/colors.png>
+Package pdftex.def Info: imagens/colors.png  used on input line 920.
+(pdftex.def)             Requested size: 340.24667pt x 135.82564pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.920 \end{frame}
+                  [96
+
+ <./imagens/colors.png>]
+<imagens/colors-02.png, id=2865, 149.55875pt x 60.225pt>
+File: imagens/colors-02.png Graphic file (type png)
+<use imagens/colors-02.png>
+Package pdftex.def Info: imagens/colors-02.png  used on input line 938.
+(pdftex.def)             Requested size: 50.84929pt x 20.47621pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.938 \end{frame}
+                 
+<imagens/colors-03.png, id=2866, 697.60625pt x 161.60374pt>
+File: imagens/colors-03.png Graphic file (type png)
+<use imagens/colors-03.png>
+Package pdftex.def Info: imagens/colors-03.png  used on input line 938.
+(pdftex.def)             Requested size: 209.28348pt x 48.48149pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.938 \end{frame}
+                 
+<imagens/colors04.png, id=2867, 316.18124pt x 344.28625pt>
+File: imagens/colors04.png Graphic file (type png)
+<use imagens/colors04.png>
+Package pdftex.def Info: imagens/colors04.png  used on input line 938.
+(pdftex.def)             Requested size: 94.8551pt x 103.28667pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.938 \end{frame}
+                  [97
+
+ <./imagens/colors-02.png> <./imagens/colors-03.png> <./imagens/colors04.png>]
+<imagens/plot.png, id=2897, 165.61874pt x 90.3375pt>
+File: imagens/plot.png Graphic file (type png)
+<use imagens/plot.png>
+Package pdftex.def Info: imagens/plot.png  used on input line 948.
+(pdftex.def)             Requested size: 82.80916pt x 45.16862pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.948 \end{frame}
+                  [98
+
+ <./imagens/plot.png>]
+<imagens/plot02.png, id=2925, 493.845pt x 78.2925pt>
+File: imagens/plot02.png Graphic file (type png)
+<use imagens/plot02.png>
+Package pdftex.def Info: imagens/plot02.png  used on input line 956.
+(pdftex.def)             Requested size: 246.92189pt x 39.14615pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.956 \end{frame}
+                  [99
+
+ <./imagens/plot02.png>]
+<imagens/plot03.png, id=2953, 648.4225pt x 476.78125pt>
+File: imagens/plot03.png Graphic file (type png)
+<use imagens/plot03.png>
+Package pdftex.def Info: imagens/plot03.png  used on input line 964.
+(pdftex.def)             Requested size: 259.3644pt x 190.7091pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.964 \end{frame}
+                  [100
+
+ <./imagens/plot03.png>]
+<imagens/plot04.png, id=2982, 701.62125pt x 501.875pt>
+File: imagens/plot04.png Graphic file (type png)
+<use imagens/plot04.png>
+Package pdftex.def Info: imagens/plot04.png  used on input line 972.
+(pdftex.def)             Requested size: 245.5711pt x 175.65887pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.972 \end{frame}
+                  [101
+
+ <./imagens/plot04.png>]
+<imagens/plot05.png, id=3010, 655.44875pt x 489.83pt>
+File: imagens/plot05.png Graphic file (type png)
+<use imagens/plot05.png>
+Package pdftex.def Info: imagens/plot05.png  used on input line 980.
+(pdftex.def)             Requested size: 262.17485pt x 195.92853pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.980 \end{frame}
+                  [102
+
+ <./imagens/plot05.png>]
+<imagens/plot06.png, id=3037, 723.70375pt x 458.71375pt>
+File: imagens/plot06.png Graphic file (type png)
+<use imagens/plot06.png>
+Package pdftex.def Info: imagens/plot06.png  used on input line 988.
+(pdftex.def)             Requested size: 289.47636pt x 183.48224pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:my_label}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.988 \end{frame}
+                  [103
+
+ <./imagens/plot06.png>] [104
+
+] [105
+
+] [106
+
+]
+\tf@nav=\write6
+\openout6 = `main.nav'.
+
+\tf@toc=\write7
+\openout7 = `main.toc'.
+
+\tf@snm=\write8
+\openout8 = `main.snm'.
+
+ (./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: E450A12071C495264751FEAFF2C09225;1062.
+ ) 
+Here is how much of TeX's memory you used:
+ 26920 strings out of 476175
+ 523612 string characters out of 5796271
+ 1865793 words of memory out of 6000000
+ 46357 multiletter control sequences out of 15000+600000
+ 606817 words of font info for 93 fonts, out of 8000000 for 9000
+ 1137 hyphenation exceptions out of 8191
+ 128i,15n,122p,680b,747s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr
+/share/texlive/texmf-dist/fonts/enc/dvips/comfortaa/a_xu66hj.enc}</usr/share/te
+xlive/texmf-dist/fonts/type1/aajohan/comfortaa/Comfortaa-Bold.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/aajohan/comfortaa/Comfortaa-Regular.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/aajohan/comfortaa/Comfortaa-Regular.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/cm-super/sfss0800.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/cm-super/sfss0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/cm-super/sfss1095.pfb>
+Output written on main.pdf (106 pages, 1019871 bytes).
+PDF statistics:
+ 3249 PDF objects out of 3580 (max. 8388607)
+ 2977 compressed objects within 30 object streams
+ 225 named destinations out of 1000 (max. 500000)
+ 659 words of extra memory for PDF output out of 10000 (max. 10000000)
+
